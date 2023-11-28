@@ -59,7 +59,9 @@ httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
 '''
 ## OUTPUT:
+### CLIENT OUTPUT:
 ![OUTPUT](./web1.png)
+### SERVER OUTPUT:
 ![OUTPUT](./web2.png)
 ## RESULT:
 The program is executed succesfully
