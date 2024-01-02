@@ -63,8 +63,9 @@ httpd.serve_forever()
 
 ## OUTPUT:
 ### CLIENT OUTPUT:
-![output](clientoutput.png)
+![web1](https://github.com/Gowtham-jk/webserver/assets/147473120/85bd89db-4193-4f3f-b2c7-301ace0baed9)
 ### SERVER OUTPUT:
-![output](serveroutput.png)
+![web2](https://github.com/Gowtham-jk/webserver/assets/147473120/ad477ee5-a89a-4930-a70d-ed19b7b135a6)
+
 ## RESULT:
 The program is executed succesfully
